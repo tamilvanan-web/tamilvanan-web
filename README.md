@@ -11,7 +11,7 @@
 </div>
 
 ```csharp
-// Tamil Vanan M — Software Developer
+ Tamil Vanan M — Software Developer
 public class TamilVanan
 {
     public string Name         { get; } = "Tamil Vanan M";
